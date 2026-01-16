@@ -1,4 +1,5 @@
-# 💫 About Me:
+![Header](./My_Header_Banner.png)
+
 🛠️ I’m currently working on building AI-integrated real-world Full Stack projects (MERN)<br>🤝 I’m looking to collaborate on Full-stack projects (React, Node, Express, MongoDB) and AI/ML-powered web applications<br>💛 I’m looking for help with Designing production-level backend architectures, Improving Problem solving skills for contests and Advanced MERN<br>🌱 I’m currently learning Data Structures & Algorithms in Java and AI/ML fundamentals<br>💬 Ask me about Full Stack Development, Java DSA preparation<br>⚡ Fun fact, I love building things from scratch! whether it’s a full-stack product, a roadmap, or a fitness routine. If I don't know something today, I’ll learn it by tomorrow. 🚀<br><br> 
 
 
